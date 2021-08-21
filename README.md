@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/viniciusgdr"><img src="https://cardivo.vercel.app/api?name=vinicius&description=Olá, eu sou o Vinicius&image=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSLD6flzca0kCzdyLB87aNpkUt0ktckNlSOQ&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1&github=Vinicius&pattern=leaf&colorPattern=%23eaeaea" /><a>
+  <a href="https://github.com/viniciusgdr"><img src="https://cardivo.vercel.app/api?name=vinicius&description=Olá, eu sou o Vinicius&image=https://avatars.githubusercontent.com/u/79378773?s=64&v=4&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1&github=Vinicius&pattern=leaf&colorPattern=%23eaeaea" /><a>
 </p>
 
 ___
