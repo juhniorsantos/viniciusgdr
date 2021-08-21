@@ -26,14 +26,14 @@ ___
 </p>
   
 <p align="center">
-  <a href="https://github.com/viniciusgdr"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=italuH&theme=tokyonight&layout=compact" /></a>
+  <a href="https://github.com/viniciusgdr"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Vinicius&theme=tokyonight&layout=compact" /></a>
 </p>
   
 <p align="center">
-  <a href="https://github.com/viniciusgdr"><img src="https://github-profile-trophy.vercel.app/?username=italuH&theme=radical&margin-w=20&no-bg=true&no-frame=false" /><a>
+  <a href="https://github.com/viniciusgdr"><img src="https://github-profile-trophy.vercel.app/?username=Vinicius&theme=radical&margin-w=20&no-bg=true&no-frame=false" /><a>
 </p>
  
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=viniciusgdr&repo=Tiringa-BOT&theme=tokyonight)](https://github.com/viniciusgdr)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=viniciusgdr&repo=Tiringa-BOT&theme=tokyonight)](https://github.com/viniciusgdr/selfbot)
 ___
 
     
